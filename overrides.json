@@ -1,0 +1,13 @@
+{
+  "feature_gates": {
+    "3085093835": true,
+    "410065390": true,
+    "410262010": true,
+    "1506311413": true
+  },
+  "layer_configs": {
+    "72216192": { "enable_i18n": true, "locale_source": "SYSTEM" },
+    "741821319": { "enabled": true }
+  },
+  "dynamic_configs": {}
+}
